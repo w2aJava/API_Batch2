@@ -1,0 +1,17 @@
+com\w2a\RestAssuredAPIBatch2\POJOClasses\Subscriptions.class
+com\w2a\RestAssuredAPIBatch2\Rough\Sample.class
+com\w2a\RestAssuredAPIBatch2\StripeAPI\CustomerAPI.class
+com\w2a\RestAssuredAPIBatch2\Rough\FileMove.class
+com\w2a\RestAssuredAPIBatch2\Rough\TestClass.class
+com\w2a\RestAssuredAPIBatch2\POJOClasses\Metadata.class
+com\w2a\RestAssuredAPIBatch2\CustomListeners\CustomerListerner.class
+com\w2a\RestAssuredAPIBatch2\Setup\TestSetup.class
+com\w2a\RestAssuredAPIBatch2\POJOClasses\Customer.class
+com\w2a\RestAssuredAPIBatch2\TestUtils\ExcelReader.class
+com\w2a\RestAssuredAPIBatch2\POJOClasses\Sources.class
+com\w2a\RestAssuredAPIBatch2\TestUtils\DataProviderClass.class
+com\w2a\RestAssuredAPIBatch2\TestUtils\TestUtils.class
+com\w2a\RestAssuredAPIBatch2\Rough\GetClassName.class
+com\w2a\RestAssuredAPIBatch2\Rough\PassJsonAsBody.class
+com\w2a\RestAssuredAPIBatch2\TestUtils\ConfigProperties.class
+com\w2a\RestAssuredAPIBatch2\TestUtils\ExtentManager.class

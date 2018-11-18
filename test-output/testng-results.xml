@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3603" started-at="2018-10-13T06:18:27Z" finished-at="2018-10-13T06:18:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3603" started-at="2018-10-13T06:18:27Z" finished-at="2018-10-13T06:18:31Z">
+      <class name="com.w2a.RestAssuredAPIBatch2.TestCases.VerifyCreateCustomerAPI">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.w2a.RestAssuredAPIBatch2.TestCases.VerifyCreateCustomerAPI@68999068]" name="setUp" is-config="true" duration-ms="666" started-at="2018-10-13T11:48:27Z" finished-at="2018-10-13T11:48:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.w2a.RestAssuredAPIBatch2.TestCases.VerifyCreateCustomerAPI@68999068]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-10-13T11:48:27Z" finished-at="2018-10-13T11:48:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.w2a.RestAssuredAPIBatch2.TestCases.VerifyCreateCustomerAPI@68999068]" name="beforeClass" is-config="true" duration-ms="3" started-at="2018-10-13T11:48:27Z" finished-at="2018-10-13T11:48:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.w2a.RestAssuredAPIBatch2.TestCases.VerifyCreateCustomerAPI@68999068]" name="beforeMethod" is-config="true" duration-ms="147" started-at="2018-10-13T11:48:27Z" finished-at="2018-10-13T11:48:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.w2a.RestAssuredAPIBatch2.TestCases.VerifyCreateCustomerAPI.createUser()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createUser()[pri:0, instance:com.w2a.RestAssuredAPIBatch2.TestCases.VerifyCreateCustomerAPI@68999068]" name="createUser" duration-ms="3436" started-at="2018-10-13T11:48:27Z" finished-at="2018-10-13T11:48:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.w2a.RestAssuredAPIBatch2.TestCases.VerifyCreateCustomerAPI@68999068]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-10-13T11:48:31Z" finished-at="2018-10-13T11:48:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createUser status=SUCCESS method=VerifyCreateCustomerAPI.createUser()[pri:0, instance:com.w2a.RestAssuredAPIBatch2.TestCases.VerifyCreateCustomerAPI@68999068] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.w2a.RestAssuredAPIBatch2.TestCases.VerifyCreateCustomerAPI@68999068]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-10-13T11:48:31Z" finished-at="2018-10-13T11:48:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.w2a.RestAssuredAPIBatch2.TestCases.VerifyCreateCustomerAPI@68999068]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-10-13T11:48:31Z" finished-at="2018-10-13T11:48:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.w2a.RestAssuredAPIBatch2.TestCases.VerifyCreateCustomerAPI@68999068]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-10-13T11:48:31Z" finished-at="2018-10-13T11:48:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.w2a.RestAssuredAPIBatch2.TestCases.VerifyCreateCustomerAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

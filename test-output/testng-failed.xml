@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.w2a.RestAssuredAPIBatch2.CustomListeners.CustomerListerner"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.w2a.RestAssuredAPIBatch2.TestCases.VerifyCreateCustomerAPI">
+        <methods>
+          <include name="tearDown"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="afterClass"/>
+          <include name="verifycreateCustomerAPIWithInvalidEmailId" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="afterMethod"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.w2a.RestAssuredAPIBatch2.TestCases.VerifyCreateCustomerAPI -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
